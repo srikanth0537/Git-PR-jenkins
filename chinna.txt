@@ -1,1 +1,1 @@
-echo 'pr-opened'
+echo 'pr-running'
