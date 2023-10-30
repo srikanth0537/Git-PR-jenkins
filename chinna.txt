@@ -1,1 +1,1 @@
-echo 'pr-running'
+echo 'pr-runn'
