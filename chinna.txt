@@ -1,1 +1,1 @@
-echo 'pr-successful'
+echo 'pr-opened'
